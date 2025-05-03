@@ -58,6 +58,23 @@ This project aims to predict the likelihood of injuries based on various feature
 3. Evaluate performance and interpret results.
 4. Generate insights for injury prevention.
 
+## Contributors
+This was a combined collaborations between my group. The group members included:
+
+Aleke James, 669116
+
+Bricole Asiachi, 670834
+
+Whitney Gituara, 671528
+
+Peter Kidiga, 671341
+
+Nelisa Muthii, 670347
+
+Kevin Korir, 670656
+
+Patricia Kiarie, 669781
+
 ## Contribution
 Feel free to submit pull requests or open issues for improvements.
 
